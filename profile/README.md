@@ -49,8 +49,8 @@
 |----|----|----|
 | 최승은 | Team Lead / Devops | `@xeunnie` |
 | 양진영 | AI | rkddl94@gmail.com |
-| 이민주 | WebRTC | lmj26106058@gmail.com |
-| 조예성 | Socket | xocds991215@gmail.com |
+| 박영진 | Auth / Security | ##@gmail.com |
+| 조예성 | Notification | xocds991215@gmail.com |
 
 ---
 
