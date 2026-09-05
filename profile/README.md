@@ -49,7 +49,7 @@
 |----|----|----|
 | 최승은 | Team Lead / Devops | `@xeunnie` |
 | 양진영 | AI | rkddl94@gmail.com |
-| 박영진 | Auth / Security | sprtms16gmail.com |
+| 박영진 | Auth / Security | sprtms16@gmail.com |
 | 조예성 | Notification | xocds991215@gmail.com |
 
 ---
